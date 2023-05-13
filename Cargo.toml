@@ -1,0 +1,8 @@
+[package]
+name = "exefs-module-example"
+authors = ["nv"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+heapless = "0.7.16"
